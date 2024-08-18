@@ -7,7 +7,7 @@ function Hello() {
   }
 
   return <p>
-    MessageNo: {number} I am your friend {fullName()}
+    Number {number} I am your friend {fullName()}
   </p>
 }
 

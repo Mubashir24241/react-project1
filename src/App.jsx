@@ -5,7 +5,7 @@ import Random from "./Random";
 function App() {
   return <div>
     <h1 className="text-center" >
-      This is simple react project
+      This is a simple react project
     </h1>
     <br />
     <Hello />
